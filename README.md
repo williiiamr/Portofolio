@@ -18,7 +18,7 @@ The objective of this project is to develop a machine learning model capable of 
 
 #
 
-<img align="left" width="250" height="250" src="https://github.com/williiiamr/Portofolio/assets/99014018/be35af35-7edf-4a17-a343-b39d2d2d80b4">**[Skincer-in](https://github.com/williiiamr/skincer-in)**
+<img align="left" width="250" height="250" src="https://github.com/williiiamr/Portofolio/assets/99014018/46051e4d-1ea8-42c5-a73d-3090f5764c7d">**[Skincer-in](https://github.com/williiiamr/skincer-in)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
