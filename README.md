@@ -12,7 +12,7 @@ Climate change has a negative impact on agricultural production. Unpredictable w
 
 #
 
-<img align="left" width="250" height = '150' src="https://github.com/williiiamr/ASL_Recoginition/blob/master/img/ASL_cover.png"> **[ASL_Recognition](https://github.com/williiiamr/ASL_Recoginition)**
+<img align="left" width="250" height = '150' padding-right="50px" src="https://github.com/williiiamr/ASL_Recoginition/blob/master/img/ASL_cover.png"> **[ASL_Recognition](https://github.com/williiiamr/ASL_Recoginition)**
 
 The objective of this project is to develop a machine learning model capable of detecting American Sign Language Handsign and classifying them into corresponding letters. The purpose of this project is to help people learn and understand handsign easily, serving as a baseline model for future improvements. In this project I used pre-trained models such as VGG16 to help model reach the desired accuracy faster using 1,820 pictures of ASL.
 
