@@ -18,16 +18,9 @@ The objective of this project is to develop a machine learning model capable of 
 
 #
 
-<img align="left" width="150" height="150" src="https://github.com/williiiamr/Portofolio/assets/99014018/46051e4d-1ea8-42c5-a73d-3090f5764c7d">**[Skincer-in](https://github.com/williiiamr/skincer-in)**
+<img align="left" width="250" height="250" src="https://github.com/williiiamr/Portofolio/assets/99014018/46051e4d-1ea8-42c5-a73d-3090f5764c7d">**[Skincer-in](https://github.com/williiiamr/skincer-in)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
-
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
-
 <br />
 
 ## Micro Projects
