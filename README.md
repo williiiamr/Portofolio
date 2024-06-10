@@ -15,6 +15,12 @@ Climate change has a negative impact on agricultural production. Unpredictable w
 <img align="left" width="250" height = '150'  src="https://github.com/williiiamr/ASL_Recoginition/blob/master/img/ASL_cover.png"> **[ASL_Recognition](https://github.com/williiiamr/ASL_Recoginition)**
 
 SkinCer-in is an app to help people diagnose skin cancer with the ease of using your camera. the purpose of this application is to provide information about various types of skin cancer, symptoms, and the information needed to treat it. In this project, the data used for training is scraped from multiple sources on the internet, comprising over 1800 pictures of skin cancer. We used Google's latest pre-trained model, EfficientNet-B5, to help classify and detect skin cancers.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/williiiamr/Portofolio/assets/99014018/46051e4d-1ea8-42c5-a73d-3090f5764c7d">**[Skincer-in](https://github.com/williiiamr/skincer-in)**
+
+SkinCer-in is an app made to help people diagnose skin cancer with the ease of using your phone camera. SkinCer-in also provides information about various types of skin cancer, its symptoms, and the information needed to help treat the cancer. In this project, the data used for training is scraped from multiple sources on the internet, comprising over 1800 pictures of skin cancer. We used Google's latest pre-trained model, EfficientNet-B5, to help classify and detect skin cancers.
 <br />
 
 ## Micro Projects
