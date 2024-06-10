@@ -1,4 +1,4 @@
-# Data Science Portfolio - Arch Desai
+# Data Science Portfolio - William Rusli
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [wrusli75@gmail.com](wrusli75@gmail.com)
@@ -8,13 +8,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/williiiamr/Weather-Prediction/blob/master/img/weather.jpg"> **[Weather Prediction](https://github.com/williiiamr/Weather-Prediction)**
 
-In this project I have used models such as GRU and 1D-CNN to predict the weather ahead of its time based on 4 years of weather data. The purpose of this project is to help PT. GGP to generate climate information as a basis for decision-making so that plant resource management can be more efficient and the risk of crop failure can be minimized.
+Climate change has a negative impact on agricultural production. Unpredictable weather can potentially affect crop yields and the resources that need to be allocated. The purpose of this project is to help PT. GGP to generate climate information as a basis for decision-making so that plant resource management can be more efficient and the risk of crop failure can be minimized. In this project I have used models such as GRU and 1D-CNN to predict the weather ahead of its time based on 4 years of weather data. 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/williiiamr/Weather-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/williiiamr/ASL_Recoginition/blob/master/img/ASL_cover.png"> **[ASL_Recognition](https://github.com/williiiamr/ASL_Recoginition)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+Sign language is the primary means of communication for the hearing impaired. However, the general public's recognition of sign language is still limited. Therefore, the objective of this project is to develop a machine learning model capable of detecting American Sign Language Handsign and classifying them into corresponding letters. The purpose of this project is to help people learn and understand handsign easily, serving as a baseline model for future improvements. In this project I used pre-trained models such as VGG16 to help model reach the desired accuracy faster using 1,820 pictures of ASL.
 
 #
 
@@ -40,24 +40,30 @@ In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engi
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Statistics, Computer Vision.
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib, Seaborn), SQL
+- **Tools**: MySQL, Git, tf-lite, MS Excel, Tableau, Jupyter, Canva
 
 ## Certificates
 
-- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
-- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
-- [Apache PySpark Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Apache%20Pyspark%20By%20Example%20(2).pdf)
-- [SQL Essential Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Sql%20Essential%20Training%202018%20(1).pdf)
-- [SQL Test By HackerRank](https://www.hackerrank.com/certificates/c0cda4c2f1b5)
-- [SQL Test By Testdome](https://www.testdome.com/cert/24cd496af7a24a8489a1fd5de791c392)
-- [Data Science Test By Testdome](https://www.testdome.com/cert/124165d7386d4f76be84c240e0547bd3)
-- [Deep Learning Specialization By deeplearning.ai](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Deep%20Learning%20Specialization.pdf)
-    - [Neural Networks and Deep Learning](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Neural%20Networks%20and%20Deep%20Learning.pdf)
-    - [Structuring Machine Learning Projects](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Structuring%20Machine%20Learning%20Projects.pdf)
-    - [Improving Deep Neural Networks](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Improving%20Deep%20Neural%20Networks.pdf)
-    - [Convolution Neural Networks](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Convolutional%20Neural%20Networks.pdf)
-    - [Sequence Models](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Sequence%20Models.pdf)
-- [Big Data 101 By Cognitiveclass.ai](https://courses.cognitiveclass.ai/certificates/bfc1df7e5d084a73b84223495263d0fe)
-- [Google Analytics for Begineers By Google](https://analytics.google.com/analytics/academy/certificate/kHYtirzEQV29uzNG8xSFXg)
+- [Certified Tensorflow Developer Certificate](https://www.credential.net/00b9f939-a860-4cb6-9b36-af888955dc98)
+- [TensorFlow: Data and Deployment by DeepLearning.AI](https://coursera.org/verify/specialization/GD5MYEGT63C7)
+- [Machine Learning by Stanford University](https://coursera.org/verify/specialization/M6FJNK484XVB)
+- [TensorFlow Developer by DeepLearning.AI](https://coursera.org/verify/professional-cert/2BZTM7GKWT27)
+- [Mathematics for Machine Learning by Imperial College London](https://coursera.org/verify/specialization/EF35WSJU8JSP)
+- [Introduction to Data Analysis using Microsoft Excel by Coursera](https://www.coursera.org/account/accomplishments/verify/67A3H5LKHXMP)
+- [Crash Course on Python by Google](https://coursera.org/verify/MD7JYJZUJZXW)
+- [Data Analytics Professional Certificate by Google]
+    - [Foundations: Data, Data, Everywhere](https://coursera.org/verify/93FQLHZ69Z2E)
+    - [Ask Questions to Make Data-Driven Decisions](https://coursera.org/verify/BFXCP3T9LCK9)
+    - [Prepare Data for Exploration](https://coursera.org/verify/7V8W45LZR8DP)
+    - [Process Data from Dirty to Clean](https://coursera.org/verify/CR3Z96SXHENL)
+    - [Analyze Data to Answer Questions](https://coursera.org/verify/MZ4DWUCAQ6G8)
+    - [Share Data Through the Art of Visualization](https://coursera.org/verify/FFXQVKYDVC2L)
+- [Memulai Pemrograman Dengan Python by Dicoding](https://www.dicoding.com/certificates/MEPJK3O1WX3V)
+- [Belajar Dasar Visualisasi Data by Dicoding](https://www.dicoding.com/certificates/72ZD9R4DJPYW)
+- [Pengenalan ke Logika Pemrograman (Programming Logic 101) by Dicoding](https://www.dicoding.com/certificates/6RPN696GQP2M)
+- [Belajar Dasar Git dengan GitHub by Dicoding](https://www.dicoding.com/certificates/0LZ0GN0NQX65)
+- [SQL Course by Progate](https://progate.com/course_certificate/bb161e42ri7560)
+- [Git Course by Progate](https://progate.com/course_certificate/0389530ar7awil)
+
