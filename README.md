@@ -24,8 +24,7 @@ SkinCer-in is an app made to help people diagnose skin cancer with the ease of u
 <br />
 
 ## Micro Projects
-- ### Statistics and Machine Learning
-    - [5 types of flower classification](https://colab.research.google.com/drive/1IEjKto3PAz1f54xUUFdxLWvfNVUL9uVn?usp=sharing) : In this file, I have implemented simple classification model to classify 5 different types of flowers using a pre-trained model
+- [5 types of flower classification](https://colab.research.google.com/drive/1IEjKto3PAz1f54xUUFdxLWvfNVUL9uVn?usp=sharing) : In this file, I have implemented simple classification model to classify 5 different types of flowers using a pre-trained model
  
 ## Core Competencies
 
