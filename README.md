@@ -1,5 +1,5 @@
 # Data Science Portfolio - William Rusli
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Competetncies, micro projects, and certificates. It is updated on the regular basis.
 
 - **Email**: [wrusli75@gmail.com](wrusli75@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/william-rusli-79b1ab204/](https://www.linkedin.com/in/william-rusli-79b1ab204/)
@@ -14,7 +14,7 @@ Climate change has a negative impact on agricultural production. Unpredictable w
 
 <img align="left" width="250" height = '150'  src="https://github.com/williiiamr/ASL_Recoginition/blob/master/img/ASL_cover.png"> **[ASL_Recognition](https://github.com/williiiamr/ASL_Recoginition)**
 
-SkinCer-in is an app to help people diagnose skin cancer with the ease of using your camera. the purpose of this application is to provide information about various types of skin cancer, symptoms, and the information needed to treat it. In this project, the data used for training is scraped from multiple sources on the internet, comprising over 1800 pictures of skin cancer. We used Google's latest pre-trained model, EfficientNet-B5, to help classify and detect skin cancers.
+The objective of this project is to develop a machine learning model capable of detecting American Sign Language Handsign and classifying them into corresponding letters. The purpose of this project is to help people learn and understand handsign easily, serving as a baseline model for future improvements. In this project I used pre-trained models such as VGG16 to help model reach the desired accuracy faster using 1,820 pictures of ASL.
 
 #
 
