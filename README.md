@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="300" height = '200' src="https://github.com/williiiamr/Weather-Prediction/blob/master/img/weather.jpg"> **[Weather Prediction](https://github.com/williiiamr/Weather-Prediction)**
 
-Climate change has a negative impact on agricultural production. Unpredictable weather can potentially affect crop yields and the resources that need to be allocated. The purpose of this project is to help PT. GGP to generate climate information as a basis for decision-making so that plant resource management can be more efficient and the risk of crop failure can be minimized. In this project I have used models such as GRU and 1D-CNN to predict the weather ahead of its time based on 4 years of weather data. 
+Unpredictable weather can potentially affect crop yields and the resources that need to be allocated. The purpose of this project is to help PT. GGP to generate climate information as a basis for decision-making so that plant resource management can be more efficient and the risk of crop failure can be minimized. In this project I have used models such as GRU and 1D-CNN to predict the weather ahead of its time based on 4 years of weather data. 
 
 #
 
